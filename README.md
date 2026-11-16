@@ -11,7 +11,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A **GeoNode cookbook** — catalog, maps, and documents on Django and GeoServer. Fleet evidence is Node-1 only: the Compose stack there is verified serving via its SITEURL host (nginx 8083 → HTTPS 443), while Node-3 GeoNode is NOT installed (Docker resume pending). Patterns are drawn from the Node-1 deployment. It is intended for Platform engineers who run a full geospatial catalog and map portal. Validate each pattern against your own data, software versions, and operating environment before adopting it.
+A **GeoNode cookbook** — catalog, maps, and documents on Django and GeoServer. Fleet evidence is Node-1 only: the Compose stack there is verified serving via its SITEURL host (nginx 8083 → HTTPS 443), while Node-3 GeoNode is NOT installed (Docker resume pending). Patterns are drawn from the Node-1 deployment (as of Oct 2026; verify against the current fleet). It is intended for Platform engineers who run a full geospatial catalog and map portal. Validate each pattern against your own data, software versions, and operating environment before adopting it.
 
 ## Repository role and status
 
